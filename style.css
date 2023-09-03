@@ -1,0 +1,17 @@
+/* h1 is a "SELECTOR" it select what needs to be affected in html */
+/* color is "ATTRIBUTE" and red is the "VAULE" that the attribute is supposed to have*/
+h1 { 
+    color: red;
+    font-size: 72px;
+}
+h2 {
+    background-color: blue;
+    color: white;
+    border: 10px solid black;
+    text-align: center;
+}
+
+p{
+    font-style: italic ;
+}
+
