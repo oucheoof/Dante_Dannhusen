@@ -1,0 +1,15 @@
+#background{
+    background-color:dimgray;
+}
+#rounded  {
+    border-radius: 30px;
+    border: 4px solid white;
+}
+#list{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.links{
+    text-decoration: none;
+}
+
